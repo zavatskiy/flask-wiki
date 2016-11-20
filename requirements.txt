@@ -1,0 +1,7 @@
+Flask==0.10.1
+Flask-Script>=0.3.3
+Flask-SQLAlchemy
+Flask-Testing
+Flask-Restless
+psycopg2
+fixture
